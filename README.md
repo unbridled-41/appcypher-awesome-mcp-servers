@@ -126,6 +126,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
+- <img src="https://cdn.simpleicons.org/git/F05032" height="14"/> [DiffXray](https://github.com/unbridled-41/diffxray) - Zero-dependency Git diff and Pull Request X-ray mapping untouched downstream callers in the blast radius, collapsing cross-file code moves, and auditing silent regression hazards
 - <img src="https://cdn.simpleicons.org/github/8A8A8A" height="14"/> [GitHub](https://github.com/github/github-mcp-server)<sup><sup>1</sup></sup> - GitHub API integration for repository management, PRs, issues, and more
 - <img src="https://cdn.simpleicons.org/github/8A8A8A" height="14"/> [GitHub](https://github.com/kurdin/github-repos-manager-mcp)<sup><sup>2</sup></sup> - Token-based GitHub automation management. No Docker for optimal performance, Flexible configuration for fine-grained control, 80+ tools with direct API integration.
 - <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="14"/> [GitLab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) - GitLab platform integration for project management and CI/CD operations
